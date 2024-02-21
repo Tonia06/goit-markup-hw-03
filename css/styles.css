@@ -246,6 +246,11 @@ section {
   padding-left: 0;
   padding-right: 0;
 }
+.team-list {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 .team-list-item {
   width: calc((100% - 72px) / 4);
 }
