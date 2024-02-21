@@ -192,6 +192,8 @@ section {
   gap: 24px;
 }
 .features-list-item {
+  padding-left: 0;
+  padding-right: 0;
   width: calc((100% - 72px) / 4);
 }
 .features-caption {
@@ -238,6 +240,8 @@ section {
   padding: 32px 0;
 }
 .team-list-item {
+  padding-left: 0;
+  padding-right: 0;
   width: calc((100% - 72px) / 4);
 }
 .team-list .team-list-item {
@@ -283,6 +287,8 @@ section {
   margin-bottom: 72px;
 }
 .portfolio-list-item {
+  padding-left: 0;
+  padding-right: 0;
   width: calc((100% - 48px) / 3);
 }
 
