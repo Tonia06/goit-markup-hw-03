@@ -328,8 +328,6 @@ section {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  margin-bottom: 32px;
-  text-align: center;
 }
 .portfolio-projects {
   border: 1px solid #e7e9fc;
@@ -366,6 +364,5 @@ section {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  margin-left: 139px;
 }
 /* #endregion Footer*/
